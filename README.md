@@ -1,6 +1,11 @@
 # NOFAcking_comments
 a tool to scrape comments from NOFAs on beta.regulations.gov w/o an api key
 
+## TODO
+- async, this is slow af
+- make it a generic interface
+- email the api people about some things i think are issues
+
 ## a rant
 im going to preface this by saying that i could be completely wrong and just misunderstanding the api... but... idk
 
